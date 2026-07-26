@@ -45,4 +45,4 @@ See the notebooks in `notebooks/` for full analysis, plots, and cluster profiles
 
 ## Author
 
-Hawk Eye — Informatics, Universitas Sarjanawiyata Tamansiswa (UST)
+**Esa Adya Syawal**
